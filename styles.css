@@ -1,0 +1,85 @@
+.oyin {
+    width: 30%;
+    height: 60%;
+    margin: 0 auto;
+    background-color: green;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.oyin-flex {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.oyin-text{
+    font-size: 50px;
+    color: white;
+}
+.oyin-text1{
+    font-size: 30px;
+    color: white;
+}
+.oyin-text2{
+    font-size: 50px;
+    color: gold;
+}
+
+.tosh {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+
+.tosh:hover {
+    transform: scale(1.1);
+}
+
+.tosh:active {
+    transform: scale(1);
+}
+
+.qaychi {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+}
+
+.qaychi:hover {
+    transform: scale(1.1);
+}
+
+.qaychi:active {
+    transform: scale(1);
+}
+
+.qogoz {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+}
+
+.qogoz:hover {
+    transform: scale(1.1);
+}
+
+.qogoz:active {
+    transform: scale(1);
+}
+.javobi{
+    font-size: 45px;
+    color: white;
+}
