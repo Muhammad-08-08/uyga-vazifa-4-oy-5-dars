@@ -83,3 +83,37 @@ img{
     font-size: 45px;
     color: white;
 }
+
+@media(max-width: 840px){
+    .oyin {
+        width: 60%;
+        height: 60%;
+        margin: 0 auto;
+        background-color: green;
+        border-radius: 20px;
+    }
+    
+    .oyin-flex {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        /* justify-content: center; */
+    }
+    .oyin-text{
+        font-size: 30px;
+        color: white;
+    }
+    .oyin-text1{
+        font-size: 20px;
+        color: white;
+    }
+    .oyin-text2{
+        width: 20%;
+        font-size: 30px;
+        color: gold;
+    }
+    .javobi{
+        font-size: 25px;
+        color: white;
+    }
+}
